@@ -8,7 +8,7 @@ public  abstract class Abstract {
         System.out.println( value1 + value2);
     }
 
-// abstract method do not have body and abstract methods are in abstract class, no object is required for abstract class
+// abstract method do not have body and abstract methods are in abstract class, no object is required for abstract class.
 
     public abstract void nice();
 
